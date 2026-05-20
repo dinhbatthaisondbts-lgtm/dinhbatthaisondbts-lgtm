@@ -1,16 +1,16 @@
 # Hi there! I'm Sơn 👋
 
-### Data Engineer | Data Scientist | Data Analyst
+### Embedded Engineer | Electronic Engineer | Automation Engineer
 
 <br>
 
-## 🤖 Building ML models & data pipelines
+## 🤖 Building embedded system,image processing by YOLO,Mediapype,control robot via app bluetooth,knowledge about Robotics as ROS,Gazebo,Rviz and SLAM,navigation algorithms.
 
 ---
 
 ## About Me
 
-I am a [Năm học, ví dụ: third-year] student at [Tên trường Đại học], passionate about Data Engineering, Data Analytics and AI/ML. Skilled in SQL, Python, data pipeline design, ETL workflows, Machine Learning and NLP. Seeking a Data internship position or entry-level roles to contribute to innovative, data-driven products at a forward-thinking company while continuously deepening my technical expertise.
+I am a first-year student at UNETI, passionate about Linux Embedded,Electronic and AI/ML. Skilled in C/C++, Python,image processing as YOLO,Mediapype,Dlib. Seeking a Embedded internship position or entry-level roles to contribute to innovative at a forward-thinking company while continuously deepening my technical expertise.
 
 ---
 
@@ -18,5 +18,4 @@ I am a [Năm học, ví dụ: third-year] student at [Tên trường Đại họ
 
 ### 💻 Languages & Scripting
 * **Python**
-* **SQL**
 * **C++**
