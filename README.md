@@ -1,10 +1,6 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=238636&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Sơn+👋" alt="Typing SVG" />
-</p>
+# Hi there! I'm Sơn 👋
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Embedded_Engineer-007ACC?style=for-the-badge" /> <img src="https://img.shields.io/badge/Electronic_Engineer-007ACC?style=for-the-badge" /> <img src="https://img.shields.io/badge/Automation_Engineer-007ACC?style=for-the-badge" />
-</p>
+## 🚀 Embedded Engineer | Electronic Engineer | Automation Engineer
 
 <br>
 
