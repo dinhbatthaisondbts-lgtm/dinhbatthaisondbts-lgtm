@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there! I'm Sơn 👋
 
-<!--
-**dinhbatthaisondbts-lgtm/dinhbatthaisondbts-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Engineer | Data Scientist | Data Analyst
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤖 Building ML models & data pipelines
+
+---
+
+## About Me
+
+I am a [Năm học, ví dụ: third-year] student at [Tên trường Đại học], passionate about Data Engineering, Data Analytics and AI/ML. Skilled in SQL, Python, data pipeline design, ETL workflows, Machine Learning and NLP. Seeking a Data internship position or entry-level roles to contribute to innovative, data-driven products at a forward-thinking company while continuously deepening my technical expertise.
+
+---
+
+## Tech Stack & Skills
+
+### 💻 Languages & Scripting
+* **Python**
+* **SQL**
+* **C++**
